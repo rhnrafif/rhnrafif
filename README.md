@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rafif</h1>
-<h3 align="center">I am a simple man that very excited to code both on Front End or Back End.</h3>
+<h3 align="center">I am a simple man that very excited to code.</h3>
 
 - 🌱 I’m currently learning **Javascript, Net**
 
