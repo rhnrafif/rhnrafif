@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rafif</h1>
 <h3 align="center">I am a simple man that very excited to code both on Front End or Back End.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhnrafif" alt="rhnrafif" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, Net**
 
 - 👨‍💻 All of my projects are available at [rhnrafif.site](rhnrafif.site)
