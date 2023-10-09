@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, Net**
 
-- 👨‍💻 All of my projects are available at [rhnrafif.com](rhnrafif.com)
+- 👨‍💻 All of my projects are available at <a href="https://rhnrafif" target="blank">rhnrafif.com</a>
 
 - 📫 How to reach me **raihanudinrafif@gmail.com**
 
